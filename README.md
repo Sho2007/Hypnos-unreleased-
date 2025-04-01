@@ -12,5 +12,5 @@ In this project we have 2 input features.
 - prompts (with -{flag})
 - choice options
 
-          -- message --
+-- message --
 I wish it'll finish before 2026 ny lol.
